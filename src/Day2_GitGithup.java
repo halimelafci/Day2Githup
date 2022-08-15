@@ -10,6 +10,8 @@ public class Day2_GitGithup {
     Yalniz git push komutunu direk kullanmak istersek bir kez :
                     git remote add origin -adress-
      */
-
+    public static void main(String[] args) {
+        System.out.println("ilk githup denememesi");
+    }
 
 }
