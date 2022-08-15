@@ -19,6 +19,7 @@ public class Day2_GitGithup {
         System.out.println("ilk githup denemesi");
         System.out.println("degisiklik denemesi");
         System.out.println("branch deneme 1");
+        System.out.println("master 1. deneme");
     }
 
 }
